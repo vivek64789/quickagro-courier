@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663026418336",
+    "project_id": "foodagro-adminpanel",
+    "storage_bucket": "foodagro-adminpanel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663026418336:android:af5594263685223adcbfc5",
+        "android_client_info": {
+          "package_name": "com.sakhuwa.foodagrocourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663026418336-mh6m08f00d1nf1f5phrpdm72f1lhm6o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVGOkDFb8RHShb-5SPP2kjQYSKuBwr7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663026418336-mh6m08f00d1nf1f5phrpdm72f1lhm6o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
